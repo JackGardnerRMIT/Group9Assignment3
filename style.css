@@ -182,3 +182,17 @@ Profile Images
   clear: both;
   display: table;
 }
+
+/* 
+Table
+*/
+
+table, th, td {	
+  border: 1px solid red;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+}
